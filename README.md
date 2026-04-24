@@ -23,7 +23,7 @@ Sitio estático desarrollado con tecnologías web nativas, sin frameworks ni dep
 
 ### Estructura de archivos
 ```
-Pagina-Web/
+Pagina-Web2/
 ├── index.html      # Estructura y contenido del sitio
 ├── styles.css      # Estilos y diseño responsivo
 ├── script.js       # Lógica e interacciones
